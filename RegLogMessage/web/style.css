@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+
+.d:hover {
+    background-color: rgb(8, 253, 255);
+    text-decoration: none;
+    color: black;
+
+}
+
+.back:hover {
+    color: rgb(110, 255, 32);
+    text-decoration: none;
+    color: black;
+
+}
+
+.back {
+    color: whitesmoke;
+}
+
+select option {
+    margin: 40px;
+    background: rgb(99, 99, 99);
+
+}
+
+.d1:hover {
+    background-color: rgb(110, 255, 32);
+    color: black;
+}

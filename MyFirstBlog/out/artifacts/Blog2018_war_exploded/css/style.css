@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.d:hover {
+    background-color: rgb(99, 99, 99);
+    text-decoration: none;
+}
+
+select option {
+    margin: 40px;
+    background: rgb(99, 99, 99);
+
+}
+.a:hover{
+    text-decoration: none;
+
+}
+
+
+
+

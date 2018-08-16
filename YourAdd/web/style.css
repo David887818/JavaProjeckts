@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("image/background-images.jpg");
+    background-size: cover;
+}
+
+.background {
+    background-color: #d5d5d5;
+    opacity: 0.7;
+    height: 100vh;
+}
+
+.name {
+    background-color: rgba(112, 128, 144, 0);
+    border: 2px solid;
+}
+
+.form {
+    border: black 2px solid;
+}
+.error{
+    color: red;
+}
+.main {
+    height: 50px;
+    border: black 1px solid;
+
+}
